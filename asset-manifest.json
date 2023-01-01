@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gardenverse/static/css/main.a617e044.chunk.css",
+    "main.js": "/gardenverse/static/js/main.349d7c10.chunk.js",
+    "main.js.map": "/gardenverse/static/js/main.349d7c10.chunk.js.map",
+    "runtime-main.js": "/gardenverse/static/js/runtime-main.3ccf3d84.js",
+    "runtime-main.js.map": "/gardenverse/static/js/runtime-main.3ccf3d84.js.map",
+    "static/js/2.09bf492c.chunk.js": "/gardenverse/static/js/2.09bf492c.chunk.js",
+    "static/js/2.09bf492c.chunk.js.map": "/gardenverse/static/js/2.09bf492c.chunk.js.map",
+    "static/js/3.fb027a31.chunk.js": "/gardenverse/static/js/3.fb027a31.chunk.js",
+    "static/js/3.fb027a31.chunk.js.map": "/gardenverse/static/js/3.fb027a31.chunk.js.map",
+    "index.html": "/gardenverse/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/gardenverse/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.09bf492c.chunk.js.LICENSE.txt": "/gardenverse/static/js/2.09bf492c.chunk.js.LICENSE.txt",
+    "static/media/stars.f495b1e4.jpg": "/gardenverse/static/media/stars.f495b1e4.jpg",
+    "static/media/sunday_garden_fun.b0a545cb.glb": "/gardenverse/static/media/sunday_garden_fun.b0a545cb.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ccf3d84.js",
+    "static/js/2.09bf492c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.349d7c10.chunk.js"
+  ]
+}
